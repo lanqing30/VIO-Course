@@ -1,3 +1,0 @@
-/home/zhaokai/VIO/ch2/homework_code/vio_data_simulation-master/build/CMakeFiles/edit_cache.dir
-/home/zhaokai/VIO/ch2/homework_code/vio_data_simulation-master/build/CMakeFiles/rebuild_cache.dir
-/home/zhaokai/VIO/ch2/homework_code/vio_data_simulation-master/build/CMakeFiles/data_gen.dir
